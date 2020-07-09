@@ -1,4 +1,4 @@
-# ModelMapper
+# DataMapper
 Simple mapper using kotlin reflection to avoid write 1:1 mapping logic 
 
 First you need to add the kotlin reflection depencies 

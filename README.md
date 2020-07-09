@@ -67,6 +67,9 @@ object ItemMapper: BaseMapper<Item, ItemView>(Item::class, ItemView::class) {
 fun Item.mapToView() = ItemMapper(this)
 ```
 ## Output
+![](https://github.com/sallySalem/ModelMapper/blob/master/Screen%20Shot%202020-07-09%20at%2016.58.33.png)
 
 
 ## Reference 
+- https://medium.com/holisticon-consultants/kotlin-data-class-mapping-aa0f9f750ca1
+
